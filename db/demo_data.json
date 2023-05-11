@@ -1,0 +1,374 @@
+[
+    {
+        "status": 1,
+        "id_person": 1,
+        "id_class": 1,
+        "datetime": "2023-04-25 11:04:06"
+    },
+    {
+        "status": 0,
+        "id_person": 1,
+        "id_class": 1,
+        "datetime": "2023-04-25 11:53:22"
+    },
+    {
+        "status": 1,
+        "id_person": 2,
+        "id_class": 1,
+        "datetime": "2023-04-25 11:10:07"
+    },
+    {
+        "status": 0,
+        "id_person": 2,
+        "id_class": 1,
+        "datetime": "2023-04-25 11:53:22"
+    },
+    {
+        "status": 1,
+        "id_person": 3,
+        "id_class": 1,
+        "datetime": "2023-04-25 11:00:17"
+    },
+    {
+        "status": 0,
+        "id_person": 3,
+        "id_class": 1,
+        "datetime": "2023-04-25 12:04:10"
+    },
+    {
+        "status": 1,
+        "id_person": 4,
+        "id_class": 1,
+        "datetime": "2023-04-25 11:00:44"
+    },
+    {
+        "status": 0,
+        "id_person": 4,
+        "id_class": 1,
+        "datetime": "2023-04-25 12:00:45"
+    },
+    {
+        "status": 1,
+        "id_person": 1,
+        "id_class": 2,
+        "datetime": "2023-04-26 11:03:14"
+    },
+    {
+        "status": 0,
+        "id_person": 1,
+        "id_class": 2,
+        "datetime": "2023-04-26 11:13:14"
+    },
+    {
+        "status": 1,
+        "id_person": 2,
+        "id_class": 2,
+        "datetime": "2023-04-26 11:18:22"
+    },
+    {
+        "status": 0,
+        "id_person": 2,
+        "id_class": 2,
+        "datetime": "2023-04-26 12:14:22"
+    },
+    {
+        "status": 1,
+        "id_person": 3,
+        "id_class": 2,
+        "datetime": "2023-04-26 11:00:59"
+    },
+    {
+        "status": 0,
+        "id_person": 3,
+        "id_class": 2,
+        "datetime": "2023-04-26 12:07:59"
+    },
+    {
+        "status": 1,
+        "id_person": 4,
+        "id_class": 2,
+        "datetime": "2023-04-26 11:00:38"
+    },
+    {
+        "status": 0,
+        "id_person": 4,
+        "id_class": 2,
+        "datetime": "2023-04-26 12:14:38"
+    },
+    {
+        "status": 1,
+        "id_person": 1,
+        "id_class": 3,
+        "datetime": "2023-04-27 11:06:51"
+    },
+    {
+        "status": 0,
+        "id_person": 1,
+        "id_class": 3,
+        "datetime": "2023-04-27 11:30:51"
+    },
+    {
+        "status": 1,
+        "id_person": 2,
+        "id_class": 3,
+        "datetime": "2023-04-27 11:11:09"
+    },
+    {
+        "status": 0,
+        "id_person": 2,
+        "id_class": 3,
+        "datetime": "2023-04-27 13:01:09"
+    },
+    {
+        "status": 1,
+        "id_person": 3,
+        "id_class": 3,
+        "datetime": "2023-04-27 11:07:02"
+    },
+    {
+        "status": 0,
+        "id_person": 3,
+        "id_class": 3,
+        "datetime": "2023-04-27 13:00:02"
+    },
+    {
+        "status": 1,
+        "id_person": 4,
+        "id_class": 3,
+        "datetime": "2023-04-27 11:01:26"
+    },
+    {
+        "status": 0,
+        "id_person": 4,
+        "id_class": 3,
+        "datetime": "2023-04-27 13:11:26"
+    },
+    {
+        "status": 1,
+        "id_person": 1,
+        "id_class": 4,
+        "datetime": "2023-04-28 11:09:35"
+    },
+    {
+        "status": 0,
+        "id_person": 1,
+        "id_class": 4,
+        "datetime": "2023-04-28 12:19:35"
+    },
+    {
+        "status": 1,
+        "id_person": 2,
+        "id_class": 4,
+        "datetime": "2023-04-28 11:15:12"
+    },
+    {
+        "status": 0,
+        "id_person": 2,
+        "id_class": 4,
+        "datetime": "2023-04-28 12:37:12"
+    },
+    {
+        "status": 1,
+        "id_person": 3,
+        "id_class": 4,
+        "datetime": "2023-04-28 11:02:59"
+    },
+    {
+        "status": 0,
+        "id_person": 3,
+        "id_class": 4,
+        "datetime": "2023-04-28 12:33:49"
+    },
+    {
+        "status": 1,
+        "id_person": 4,
+        "id_class": 4,
+        "datetime": "2023-04-28 11:03:08"
+    },
+    {
+        "status": 0,
+        "id_person": 4,
+        "id_class": 4,
+        "datetime": "2023-04-28 12:37:08"
+    },
+    {
+        "status": 1,
+        "id_person": 1,
+        "id_class": 5,
+        "datetime": "2023-04-29 11:19:11"
+    },
+    {
+        "status": 0,
+        "id_person": 1,
+        "id_class": 5,
+        "datetime": "2023-04-29 11:37:19"
+    },
+    {
+        "status": 1,
+        "id_person": 2,
+        "id_class": 5,
+        "datetime": "2023-04-29 11:06:29"
+    },
+    {
+        "status": 0,
+        "id_person": 2,
+        "id_class": 5,
+        "datetime": "2023-04-29 11:49:29"
+    },
+    {
+        "status": 1,
+        "id_person": 3,
+        "id_class": 5,
+        "datetime": "2023-04-29 11:12:55"
+    },
+    {
+        "status": 0,
+        "id_person": 3,
+        "id_class": 5,
+        "datetime": "2023-04-29 11:49:13"
+    },
+    {
+        "status": 1,
+        "id_person": 4,
+        "id_class": 5,
+        "datetime": "2023-04-29 11:01:25"
+    },
+    {
+        "status": 0,
+        "id_person": 4,
+        "id_class": 5,
+        "datetime": "2023-04-29 11:50:34"
+    },
+    {
+        "status": 1,
+        "id_person": 1,
+        "id_class": 6,
+        "datetime": "2023-04-30 11:00:03"
+    },
+    {
+        "status": 0,
+        "id_person": 1,
+        "id_class": 6,
+        "datetime": "2023-04-30 12:16:03"
+    },
+    {
+        "status": 1,
+        "id_person": 2,
+        "id_class": 6,
+        "datetime": "2023-04-30 11:01:49"
+    },
+    {
+        "status": 0,
+        "id_person": 2,
+        "id_class": 6,
+        "datetime": "2023-04-30 11:20:49"
+    },
+    {
+        "status": 1,
+        "id_person": 3,
+        "id_class": 6,
+        "datetime": "2023-04-30 11:07:22"
+    },
+    {
+        "status": 0,
+        "id_person": 3,
+        "id_class": 6,
+        "datetime": "2023-04-30 12:15:44"
+    },
+    {
+        "status": 1,
+        "id_person": 4,
+        "id_class": 6,
+        "datetime": "2023-04-30 11:00:11"
+    },
+    {
+        "status": 0,
+        "id_person": 4,
+        "id_class": 6,
+        "datetime": "2023-04-30 12:16:19"
+    },
+    {
+        "status": 1,
+        "id_person": 1,
+        "id_class": 7,
+        "datetime": "2023-05-01 11:14:28"
+    },
+    {
+        "status": 0,
+        "id_person": 1,
+        "id_class": 7,
+        "datetime": "2023-05-01 11:54:31"
+    },
+    {
+        "status": 1,
+        "id_person": 2,
+        "id_class": 7,
+        "datetime": "2023-05-01 11:03:07"
+    },
+    {
+        "status": 0,
+        "id_person": 2,
+        "id_class": 7,
+        "datetime": "2023-05-01 13:22:57"
+    },
+    {
+        "status": 1,
+        "id_person": 3,
+        "id_class": 7,
+        "datetime": "2023-05-01 11:19:01"
+    },
+    {
+        "status": 0,
+        "id_person": 3,
+        "id_class": 7,
+        "datetime": "2023-05-01 13:18:01"
+    },
+    {
+        "status": 1,
+        "id_person": 4,
+        "id_class": 7,
+        "datetime": "2023-05-01 11:00:40"
+    },
+    {
+        "status": 0,
+        "id_person": 4,
+        "id_class": 7,
+        "datetime": "2023-05-01 13:18:20"
+    },
+    {
+        "status": 1,
+        "id_person": 1,
+        "id_class": 8,
+        "datetime": "2023-05-02 11:02:54"
+    },
+    {
+        "status": 0,
+        "id_person": 1,
+        "id_class": 8,
+        "datetime": "2023-05-02 12:32:14"
+    },
+    {
+        "status": 1,
+        "id_person": 2,
+        "id_class": 8,
+        "datetime": "2023-05-02 11:17:19"
+    },
+    {
+        "status": 0,
+        "id_person": 2,
+        "id_class": 8,
+        "datetime": "2023-05-02 13:43:19"
+    },
+    {
+        "status": 1,
+        "id_person": 3,
+        "id_class": 8,
+        "datetime": "2023-05-02 11:01:06"
+    },
+    {
+        "status": 0,
+        "id_person": 3,
+        "id_class": 8,
+        "datetime": "2023-05-02 12:21:16"
+    }
+]
