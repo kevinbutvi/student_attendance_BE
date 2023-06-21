@@ -23,18 +23,17 @@ class AttendanceInputData(BaseModel):
             "The status Value mas be '1' for 'JOIN' or '0' for 'LEFT'")
 
 
-class StudentOutput(BaseModel):
+class BasePerson(BaseModel):
     id: int
     dni: int
     personName: str
+
+
+class StudentOutput(BasePerson):
     attendancePercentage: float
     status: int
 
 
-class StudentSummaryOutput(BaseModel):
-    id: int
-    dni: int
-    personName: str
-    thirtyDaysSummary: Dict
-    yearSummary: Dict
-    summary: List
+class StudentSummaryOutput(BasePerson):
+    totalSummary: Dict
+    summary: List | None

@@ -1,4 +1,4 @@
-from sqlalchemy import select, join
+from sqlalchemy import select, join, and_
 from datetime import datetime
 
 from attendance_app.models.connection.my_sql import with_session
@@ -18,10 +18,14 @@ def get_students(session, id: int = None):
 
 
 @with_session
-def get_classes_data_from_student_id(session, student_id):
+def get_classes_data_from_student_id(session, student_id, start_date, end_date):
     stmt = select(Classes.id, Classes.duration, Classes.date).where(
-        Student_Subject.studentId == student_id).select_from(join(Students, Student_Subject, Students.id == Student_Subject.studentId))
+        and_(Student_Subject.studentId == student_id,
+             Classes.date.between(start_date, end_date))).select_from(join(Students, Student_Subject, Students.id == Student_Subject.studentId))
     response = session.execute(stmt).all()
+
+    if len(response) == 0:
+        return None
     return [map_modelClass_into_class(item) for item in response]
 
 

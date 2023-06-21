@@ -10,14 +10,14 @@ class StudentData():
 
 
 class LessonClass():
-    def __init__(self, id, duration, date):
+    def __init__(self, id: int, duration: datetime.time, date: datetime.date):
         self.id = id
         self.duration = duration
         self.date = date
 
 
 class Student():
-    def __init__(self, id, dni, name, lastName):
+    def __init__(self, id: int, dni: int, name: str, lastName: str):
         self.id = id
         self.dni = dni
         self.name = name
